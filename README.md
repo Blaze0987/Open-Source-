@@ -1,6 +1,6 @@
-## :star2: Overview
+## :star2: SCREEN SHORT
  
-<img src="./Picsart_24-04-01_07-17-21-117.jpg" width="180" alt="">
+<p align="center"><img src="22649a17e19596202cf096ac48c66bbd.jpg"></p>
  
 ## [𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗥𝗘𝗦𝗘𝗥𝗩𝗘 𝗘𝗡𝗚𝗜𝗡𝗘 𝗥𝗘𝗣𝗢]
  
