@@ -14,7 +14,7 @@
 ```bash
 🧬 CLONE THIS REPO 🧬
 
-git clone https://github.com/AHMED-143/RESERVE.git
+git clone https://github.com/PRIME-404/RESERVE.git
 ```
  
 ## :telephone_receiver: Contact Information
