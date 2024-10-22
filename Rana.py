@@ -1,6 +1,6 @@
-"RESERVE MY AHMED FARHAN
- GITHUB : https://github.com/BLAZE-143
- GOOD BYY RANA"
+"@ RESERVE MY AHMED FARHAN"
+"@ GITHUB : https://github.com/BLAZE-143"
+"@ GOOD BYY RANA"
 #<<_________[ IMPORTING MODULES ]_________>>#
 import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
